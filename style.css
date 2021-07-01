@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to right, white, black, blue, orange);
+    text-align: center;
+    color: forestgreen;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    max-width: 30%;
+}
